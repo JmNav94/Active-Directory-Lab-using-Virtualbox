@@ -31,8 +31,8 @@ Create Demo Account in Users section: <br/>
 <img src="https://i.imgur.com/lsXskKt.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Password for Demo Account:  <br/>
+<img src="https://i.imgur.com/fx7B6zu.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
