@@ -19,12 +19,12 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Access Server Manager: <br/>
 <img src="https://i.imgur.com/nfTE5cc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select Active Directory Users and Computers in Tools Menu to view connected Devices:  <br/>
+<img src="https://i.imgur.com/b83pRc8.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
