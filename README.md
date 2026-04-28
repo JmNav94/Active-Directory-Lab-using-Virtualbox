@@ -27,8 +27,8 @@ Select Active Directory Users and Computers in Tools Menu to view connected Devi
 <img src="https://i.imgur.com/b83pRc8.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Demo Account in Users section: <br/>
+<img src="https://i.imgur.com/lsXskKt.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
