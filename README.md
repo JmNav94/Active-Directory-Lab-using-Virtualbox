@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Active Directory Lab</h1>
 
 
 
@@ -9,12 +9,13 @@ Project consists of an exploration of Active Directory via JobSkillsShare virtua
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>JobsShareSkill virtual sandbox</b> 
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b>
+- <b>Windows Server 2022</b>
 
 <h2>Program walk-through:</h2>
 
