@@ -64,7 +64,31 @@ Log into local user by adding ".\" to the account name:  <br/>
 <img src="https://i.imgur.com/d7PAjvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Change device from Workgroup to Domain: acilabs.com:  <br/>
+Change device from Workgroup to Domain: ACILABS.COM:  <br/>
+<img src="https://i.imgur.com/5RlPaOs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Connect to Domain with Administrator account login:  <br/>
+<img src="https://i.imgur.com/TkhqjPF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Connection Confirmed:  <br/>
+<img src="https://i.imgur.com/UBS9yRS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Finalize connection by restarting device: <br/>
+<img src="https://i.imgur.com/MZHlD2O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm new computer name added into the Domain Controllers Active Directory :  <br/>
+<img src="https://i.imgur.com/kf97lJk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+:  <br/>
+<img src="https://i.imgur.com/d7PAjvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+:  <br/>
 <img src="https://i.imgur.com/5RlPaOs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
