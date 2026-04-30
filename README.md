@@ -44,8 +44,30 @@ Verify connection to Domain through System settings > About > System Properties:
 <img src="https://i.imgur.com/7IJninD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Create Local User: Right click Start button to access Computer Management:  <br/>
+<img src="https://i.imgur.com/vOZqBJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+In Computer Management expand Local Users and Groups > Users then right click to create a new local user:  <br/>
+<img src="https://i.imgur.com/YAHPGCU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Login to local user account will fail since the device is connected to the domain: <br/>
+<img src="https://i.imgur.com/P1QiKul.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Log into local user by adding ".\" to the account name:  <br/>
+<img src="https://i.imgur.com/MHw53jI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Log onto Demo account on Connected Device:  <br/>
+<img src="https://i.imgur.com/ANQ5KEp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Verify connection to Domain through System settings > About > System Properties:  <br/>
+<img src="https://i.imgur.com/7IJninD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
